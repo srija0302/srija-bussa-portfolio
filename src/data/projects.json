@@ -1,0 +1,27 @@
+[
+  {
+    "title": "AI Text Summarizer",
+    "imageSrc": "assets/projects/project.png",
+    "description": "This is used to summarize given text in short. It uses OpenAI APIs",
+    "skills": ["React", "Node", "OpenAI"],
+    "demo": "",
+    "source": "https://github.com/srija0302/ai_text_summarizer"
+  },
+  {
+    "title": "URL Shortener",
+    "imageSrc": "/assets/projects/project.png",
+    "description": "This is used to shorten a given url which makes it ease to share.",
+    "skills": ["HTML", "CSS", "Node"],
+    "demo": "",
+    "source": "https://github.com/srija0302/project-url-shortner"
+  },
+
+  {
+    "title": "Btech Batch",
+    "imageSrc": "assets/projects/project.png",
+    "description": "This was built to access all notes related to different branches in all semesters during engineering.",
+    "skills": ["ReactNative"],
+    "demo": "",
+    "source": "https://github.com/srija0302/Btech-Batch"
+  }
+]

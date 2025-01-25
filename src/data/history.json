@@ -1,0 +1,18 @@
+[
+  {
+    "role": "SDE 1",
+    "organisation": "Servify",
+    "startDate": "May 2, 2024",
+    "endDate": "Present",
+    "experiences": ["Role Based Access Management", "Discount Portal"],
+    "imageSrc": "assets/experience/servify-logo.png"
+  },
+  {
+    "role": "Member Techincal",
+    "organisation": "ADP",
+    "startDate": "Aug 17, 2021",
+    "endDate": "Apr 30, 2024",
+    "experiences": ["HR Handbook for policies", "Employee Management"],
+    "imageSrc": "assets/experience/adp-logo.webp"
+  }
+]

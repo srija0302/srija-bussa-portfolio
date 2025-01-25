@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "assets/skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "assets/skills/js.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "assets/skills/typescript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "assets/skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "assets/skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "assets/skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "assets/skills/sql.png"
+  },
+  {
+    "title": "PrismaORM",
+    "imageSrc": "assets/skills/prisma.png"
+  }
+]
