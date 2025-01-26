@@ -18,7 +18,7 @@ export const ProfilePhoto = () => {
         </a>
       </div>
       <img
-        src="/assets/profile/srija.jpeg"
+        src="/assets/profile/srija-bussa.jpeg"
         alt="profile"
         className={styles.profileImg}
       />
