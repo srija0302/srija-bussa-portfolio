@@ -6,7 +6,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src="/assets/profile/srija-bussa.jpeg"
+          src="/assets/profile/srija.jpeg"
           alt="image"
           className={styles.aboutImage}
         />

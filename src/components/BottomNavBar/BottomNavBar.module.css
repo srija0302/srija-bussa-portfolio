@@ -1,0 +1,43 @@
+/* components/BottomNavbar.module.css */
+.bottomNavbar {
+  display: none;
+}
+@media screen and (max-width: 830px) {
+  .bottomNavbar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1000; /* add this to bring the navbar to the front */
+  }
+
+  .bottomNavbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .bottomNavbar li {
+    margin-right: 20px;
+  }
+
+  .bottomNavbar a {
+    text-decoration: none;
+    color: #fff;
+  }
+
+  .bottomNavbar img {
+    width: 20px;
+    height: 20px;
+  }
+  .App {
+    padding-bottom: 60px; /* adjust this value to match the height of the navbar */
+    overflow: visible;
+  }
+}
