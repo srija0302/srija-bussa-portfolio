@@ -35,7 +35,7 @@ export const BottomNavBar = () => {
             </a>
           </li>
           <li>
-            <a href="#contact">
+            <a href="#contact-mobile">
               <img src="/assets/bottomnavbar/contact.png" alt="Contact" />
             </a>
           </li>
