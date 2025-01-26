@@ -32,7 +32,7 @@ export const Contact = () => {
           </li>
         </ul>
       </footer>
-      <footer id="contact" className={styles.mobileContainer}>
+      <footer id="contact-mobile" className={styles.mobileContainer}>
         <div>
           <h2>Feel free to reach out!</h2>
         </div>
